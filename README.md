@@ -18,11 +18,67 @@ There is a need for a **low-cost, real-time, AI-based fault detection and recove
 
 1. **OpenDSS Grid Simulation**  
    Simulate the IEEE 123-bus power distribution network in OpenDSS, incorporating generators, loads, renewable sources, and realistic operating conditions.
+<p align="center">
+   <img width="462" height="386" alt="image" src="https://github.com/user-attachments/assets/3eb1e1d5-bfc8-46c1-904b-35e5db94cb2c" />
+</p>
 
-![Step 1 – OpenDSS Grid Simulation]( )
+<p align="center">
+   <img width="268" height="265" alt="image" src="https://github.com/user-attachments/assets/39f991ea-2859-4f81-aa0c-2001a623353e" />
+</p>
+
+<p align="center">
+   <img width="293" height="287" alt="image" src="https://github.com/user-attachments/assets/dec4794d-224f-435a-b7ff-aa1137e1a96c" />
+</p>
+
+<p align="center">
+   <img width="293" height="293" alt="image" src="https://github.com/user-attachments/assets/21e1d023-178b-405d-88e3-ca123f359ef3" />
+</p>
+
+<p align="center">
+   <img width="274" height="268" alt="image" src="https://github.com/user-attachments/assets/246594f0-e91b-45ff-9385-725673ae751c" />
+</p>
+
+<p align="center">
+   <img width="290" height="286" alt="image" src="https://github.com/user-attachments/assets/a6c31939-9dd6-4641-a1f6-1601b81539c8" />
+</p>
+
+<p align="center">
+   <img width="267" height="268" alt="image" src="https://github.com/user-attachments/assets/7026b81b-0f20-492a-81f9-a22cf3b05b86" />
+</p>
+
+<p align="center">
+   <img width="1271" height="713" alt="image" src="https://github.com/user-attachments/assets/0bc6e31c-3c2e-4198-ba01-fa5d94c87da7" />
+</p>
+
+<p align="center">
+   <img width="517" height="362" alt="image" src="https://github.com/user-attachments/assets/4a368b49-781c-47b4-a8ce-66685b98d5e4" />
+</p>
+
 
 2. **Spectral Clustering for Zone Partitioning**  
    Apply spectral clustering to divide the grid into smaller, manageable zones for **localized fault detection**, **faster recovery**, and **efficient resource allocation**.
+
+
+<p align="center">
+   <img width="581" height="318" alt="image" src="https://github.com/user-attachments/assets/74ac14d2-152b-4983-8dfb-e41e089caf13" />
+</p>
+
+<p align="center">
+   <img width="555" height="321" alt="image" src="https://github.com/user-attachments/assets/19b51e12-1260-4580-aa7e-cd8fdd63040c" />
+</p>
+
+<p align="center">
+   <img width="551" height="414" alt="image" src="https://github.com/user-attachments/assets/ac5357bd-37e8-458a-96a1-4359b8ea9f25" />
+</p>
+
+<p align="center">
+   <img width="541" height="303" alt="image" src="https://github.com/user-attachments/assets/337b7c01-d947-4a93-9b15-b3e249f71ac4" />
+</p>
+
+<p align="center">
+   <img width="793" height="755" alt="image" src="https://github.com/user-attachments/assets/ea53c50c-2eb6-40f5-8359-05e0da8fb37d" />
+</p>
+
 
 3. **Zone-wise Fault Injection**  
    Introduce fault scenarios such as **line-to-ground faults**, **voltage sags**, and **equipment failures** in each zone. Record simulation data for training.
