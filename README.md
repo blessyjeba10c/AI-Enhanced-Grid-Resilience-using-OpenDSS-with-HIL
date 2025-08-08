@@ -38,7 +38,9 @@ There is a need for a **low-cost, real-time, AI-based fault detection and recove
    Deploy AI models on **Raspberry Pi / FPGA** connected to the simulated grid for real-time testing and validation.
 
 ![WhatsApp Image 2025-08-08 at 13 23 19_7687567e](https://github.com/user-attachments/assets/c2055c37-8873-4e6a-8e46-a333c7d553cf)
-)
+
+<img width="428" height="346" alt="image" src="https://github.com/user-attachments/assets/4e9a1aef-c66c-4153-973f-59952115cbad" />
+
 
 ---
 
