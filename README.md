@@ -34,13 +34,29 @@ There is a need for a **low-cost, real-time, AI-based fault detection and recove
    Build an interactive **Streamlit** dashboard to display **grid status**, **predicted fault zones**, and **recovery timelines**.  
    Integrate **Power BI** for advanced analytics and historical trend analysis.
 
+<p align="center">
+   ![WhatsApp Image 2025-08-08 at 14 27 46_e1cb9d1d](https://github.com/user-attachments/assets/76929780-4a96-4da1-889e-9ec946319a01)
+</p>
+
+<p align="center">
+   ![WhatsApp Image 2025-08-08 at 14 27 46_2c5ae981](https://github.com/user-attachments/assets/6a7499b8-f55b-4e1a-bb18-48c4a1005d0a)
+</p>
+
+<p align="center">
+   ![WhatsApp Image 2025-08-08 at 14 27 47_8b95e396](https://github.com/user-attachments/assets/1557425c-8a2e-48ac-9479-f3a332924da5)
+</p>
+
+
 6. **Hardware-in-the-Loop (HIL) Validation**  
    Deploy AI models on **Raspberry Pi / FPGA** connected to the simulated grid for real-time testing and validation.
 
-![WhatsApp Image 2025-08-08 at 13 23 19_7687567e](https://github.com/user-attachments/assets/c2055c37-8873-4e6a-8e46-a333c7d553cf)
+<p align="center">
+   ![WhatsApp Image 2025-08-08 at 13 23 19_7687567e](https://github.com/user-attachments/assets/c2055c37-8873-4e6a-8e46-a333c7d553cf)
+</p>
 
-<img width="428" height="346" alt="image" src="https://github.com/user-attachments/assets/4e9a1aef-c66c-4153-973f-59952115cbad" />
-
+<p align="center">
+   <img width="428" height="346" alt="image" src="https://github.com/user-attachments/assets/4e9a1aef-c66c-4153-973f-59952115cbad" />
+</p>
 
 ---
 
