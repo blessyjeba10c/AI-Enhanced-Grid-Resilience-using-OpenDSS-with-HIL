@@ -4,7 +4,7 @@
 # GridGuard – AI-Powered Smart Grid Resilience Platform
 
 **GridGuard** is an AI-powered smart grid resilience platform designed to **predict faults**, **minimize blackout time**, and **enhance disaster recovery** in power distribution systems.  
-This project was shortlisted for the **Final Round of the L&T Ideation Hackathon – Season 2**.
+
 
 ---
 
@@ -18,6 +18,8 @@ There is a need for a **low-cost, real-time, AI-based fault detection and recove
 
 1. **OpenDSS Grid Simulation**  
    Simulate the IEEE 123-bus power distribution network in OpenDSS, incorporating generators, loads, renewable sources, and realistic operating conditions.
+
+![Step 1 – OpenDSS Grid Simulation]( )
 
 2. **Spectral Clustering for Zone Partitioning**  
    Apply spectral clustering to divide the grid into smaller, manageable zones for **localized fault detection**, **faster recovery**, and **efficient resource allocation**.
@@ -34,6 +36,9 @@ There is a need for a **low-cost, real-time, AI-based fault detection and recove
 
 6. **Hardware-in-the-Loop (HIL) Validation**  
    Deploy AI models on **Raspberry Pi / FPGA** connected to the simulated grid for real-time testing and validation.
+
+   ![Step 1 – OpenDSS Grid Simulation]( ![WhatsApp Image 2025-08-08 at 13 23 19_7687567e](https://github.com/user-attachments/assets/c2055c37-8873-4e6a-8e46-a333c7d553cf)
+)
 
 ---
 
